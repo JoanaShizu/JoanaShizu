@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/JoanaShizu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoanaShizu&show_icons=true&hide_border=true&title_color=FF38A2&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoanaShizu&layout=compact&langs_count=7&hide_border=true&title_color=FF38A2&text_color=00FFFF&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoanaShizu&layout=compact&hide_border=true&title_color=FF38A2&text_color=00FFFF&bg_color=0d1117"/>
 </div>
 
 <div style="display: inline_block" align="center"><br><br>
