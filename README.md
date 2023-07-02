@@ -27,6 +27,4 @@
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div><br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JoanaShizu&bg_color=000000&color=ff38a2&line=00ffff&point=e600c7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <img width=100% height= 80 src="https://thumbs.gfycat.com/GrayInsecureAmoeba-max-1mb.gif"/>
