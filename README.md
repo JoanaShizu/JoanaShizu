@@ -27,4 +27,4 @@
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div><br>
 
-<img width=100% height= 80 src="https://media2.giphy.com/media/TIj8cbzWYKnE9ul3ab/giphy.gifcid=6c09b9529z3w19e6regp30ssewhzwcdi3n7ykxj77kz52c3x&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"/>
+<img width=100% height= 80 src=""/>
