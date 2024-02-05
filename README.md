@@ -1,4 +1,4 @@
-<img width=100% height= 80 src="https://thumbs.gfycat.com/GrayInsecureAmoeba-max-1mb.gif"/>
+<img width=100% height= 80 src="https://media2.giphy.com/media/TIj8cbzWYKnE9ul3ab/giphy.gif?cid=6c09b9529z3w19e6regp30ssewhzwcdi3n7ykxj77kz52c3x&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Joana+Shizu;I'm+from+Brazil;Graduate+student+in+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
